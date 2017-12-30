@@ -1,0 +1,7 @@
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Hello\bin\Debug\Hello.exe.config
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Hello\bin\Debug\Hello.exe
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Hello\bin\Debug\Hello.pdb
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Hello\obj\Debug\Hello.exe
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Hello\obj\Debug\Hello.pdb
