@@ -1,0 +1,7 @@
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\RectanglePrivate\bin\Debug\RectanglePrivate.exe.config
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\RectanglePrivate\bin\Debug\RectanglePrivate.exe
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\RectanglePrivate\bin\Debug\RectanglePrivate.pdb
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\RectanglePrivate\obj\Debug\RectanglePrivate.csprojResolveAssemblyReference.cache
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\RectanglePrivate\obj\Debug\RectanglePrivate.csproj.CoreCompileInputs.cache
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\RectanglePrivate\obj\Debug\RectanglePrivate.exe
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\RectanglePrivate\obj\Debug\RectanglePrivate.pdb
