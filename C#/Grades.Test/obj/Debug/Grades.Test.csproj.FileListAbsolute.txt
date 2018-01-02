@@ -1,0 +1,16 @@
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\bin\Debug\Grades.Test.dll
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\bin\Debug\Grades.Test.pdb
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\obj\Debug\Grades.Test.csprojResolveAssemblyReference.cache
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\obj\Debug\Grades.Test.csproj.CoreCompileInputs.cache
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\obj\Debug\Grades.Test.dll
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\obj\Debug\Grades.Test.pdb
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\bin\Debug\Grades.exe
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\bin\Debug\Grades.pdb
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\Grades.Test\bin\Debug\Grades.exe.config
