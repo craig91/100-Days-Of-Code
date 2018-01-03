@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffValuesInArray", "DiffValuesInArray.csproj", "{F60C1E72-6490-468C-9D16-24F1BE55CFAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60C1E72-6490-468C-9D16-24F1BE55CFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60C1E72-6490-468C-9D16-24F1BE55CFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60C1E72-6490-468C-9D16-24F1BE55CFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60C1E72-6490-468C-9D16-24F1BE55CFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC6D1D8-DA0F-4844-AF3D-1137C890E4B9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\DiffValuesInArray\bin\Debug\DiffValuesInArray.exe.config
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\DiffValuesInArray\bin\Debug\DiffValuesInArray.exe
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\DiffValuesInArray\bin\Debug\DiffValuesInArray.pdb
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\DiffValuesInArray\obj\Debug\DiffValuesInArray.csprojResolveAssemblyReference.cache
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\DiffValuesInArray\obj\Debug\DiffValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\DiffValuesInArray\obj\Debug\DiffValuesInArray.exe
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\DiffValuesInArray\obj\Debug\DiffValuesInArray.pdb
