@@ -1,0 +1,7 @@
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\JagArray\bin\Debug\JagArray.exe.config
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\JagArray\bin\Debug\JagArray.exe
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\JagArray\bin\Debug\JagArray.pdb
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\JagArray\obj\Debug\JagArray.csprojResolveAssemblyReference.cache
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\JagArray\obj\Debug\JagArray.csproj.CoreCompileInputs.cache
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\JagArray\obj\Debug\JagArray.exe
+C:\Users\Craig Dejean\code\100-Days-Of-Code\C#\JagArray\obj\Debug\JagArray.pdb
