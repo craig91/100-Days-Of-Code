@@ -10,6 +10,23 @@ namespace Grades.Test.Types
     [TestClass]
     public class TypeTests
     {
+        [TestMethod]
+        public void UpperCaseAString()
+        {
+            string name = "craig";
+            name = name.ToUpper();
+
+            Assert.AreEqual("CRAIG", name);
+        }
+
+        [TestMethod]
+        public void AddDaysToDateTime()
+        {
+            DateTime date = new DateTime(2018, 1, 1);
+            date = date.AddDays(1);
+
+            Assert.AreEqual(2, date.Day);
+        }
 
 
         [TestMethod]
@@ -28,6 +45,9 @@ namespace Grades.Test.Types
         }
 
 
+
+/// /////////////////////////////////////////////////////////////
+
         [TestMethod]
         public void ReferenceTypesPassedByValue()
         {
@@ -42,6 +62,7 @@ namespace Grades.Test.Types
         {
             book.Name = "A GradeBook";
         }
+/// ////////////////////////////////////////////////////////////
 
 
         [TestMethod]
