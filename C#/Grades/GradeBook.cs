@@ -20,7 +20,8 @@ namespace Grades
             
                 
             float sum = 0;
-            foreach(float grade in grades)
+
+            foreach (float grade in grades)
             {
                 stats.HighestGrade = Math.Max(grade, stats.HighestGrade);
                 stats.LowestGrade = Math.Min(grade, stats.LowestGrade);
@@ -52,9 +53,6 @@ namespace Grades
                         NamedChangedEventArgs args = new NamedChangedEventArgs();
                         args.ExistingName = _name;
                         args.NewName = value;
-
-                    
-
                         NameChanged(this, args);
                     }
 
