@@ -4,26 +4,29 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <ImageView
-        android:src="@drawable/ocean"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:scaleType="centerCrop" />
-
     <TextView
-        android:text="You're invited!"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textColor="@android:color/white"
-        android:textSize="54sp"
-        android:background="#009688" />
-
+        android:text="Tom"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"  // Has to be 0 dp when trying to evenly space out children.
+        android:layout_weight="1" // priority level, the higher the value the more space it takes up.
+        android:textSize="24sp"
+        android:background="#4CAF50" />
+        
     <TextView
-        android:text="Bonfire at the beach"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textColor="@android:color/white"
-        android:textSize="34sp"
-        android:background="#009688" />
+        android:text="Tim"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="24sp"
+        android:background="#2196F3" />
+        
+    <TextView
+        android:text="Todd"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="24sp"
+        android:background="#673AB7" />
+    
 
 </LinearLayout>
