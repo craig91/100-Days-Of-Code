@@ -23,7 +23,7 @@ namespace Grades
             {
                 Console.WriteLine(ex.Message);
             }
-            
+          
 
             book.AddGrade(91);
             book.AddGrade(89.5f);
