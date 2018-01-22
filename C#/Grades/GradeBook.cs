@@ -15,8 +15,14 @@ namespace Grades
             grades = new List<float>();
         }
 
+
+
         public GradeStatistics ComputeStatistics()
         {
+
+            Console.WriteLine("GradeBook::ComputeStatistics");
+
+
             GradeStatistics stats = new GradeStatistics();
 
 
@@ -77,6 +83,6 @@ namespace Grades
         public event NameChangedDelegate NameChanged;
 
         private string _name;
-        private List<float> grades; // list convention: names are lower case.
+        protected List<float> grades; // list convention: names are lower case.
     }
 }
