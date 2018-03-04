@@ -3,7 +3,7 @@ const path = require('path');
 const publicFolder = `${__dirname}/public`;
 
 module.exports = {
-    entry: './src/App.jsx',
+    entry: './src/Render.jsx',
     output: {
         path: publicFolder,
         filename: 'bundle.js',
