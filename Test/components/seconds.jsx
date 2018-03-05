@@ -1,4 +1,6 @@
 import React from 'react'
+import Display from '../src/Render.jsx';
+import { Link } from 'react-router-dom';
 
 
 class Seconds extends React.Component {
@@ -20,6 +22,8 @@ class Seconds extends React.Component {
         return (
           <div>
             Seconds: {this.state.seconds}
+            <br />
+            <Link to="/">Home</Link>
           </div>
         );
       }
