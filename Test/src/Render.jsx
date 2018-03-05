@@ -12,6 +12,9 @@ class Display extends React.Component {
   render() {
     return ( 
       <div>
+        <Link to="/hello">Hello</Link>
+        <br />
+        <Link to="/Timer">Timer</Link>
         {this.props.children}
       </div>
     )
