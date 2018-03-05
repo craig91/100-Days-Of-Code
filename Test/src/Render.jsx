@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { IndexRoute, Link, Router, Route, browserHistory, hashHistory } from 'react-router';
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
 import Hello from '../components/hello.jsx';
 import Seconds from '../components/seconds.jsx';
@@ -21,11 +21,11 @@ class Display extends React.Component {
 
 ReactDOM.render(
     <Router>
-      <Route path='/' component={Display}>
-       {/* <IndexRoute component={Hello} /> */}
-       <Route path = '/Hello' component={Hello} />
-       <Route path = '/Timer' component={Seconds} />
-      </Route>
+      <div>
+        <Route exact path='/' component={Display} />
+        <Route path = '/Hello' component={Hello} />
+        <Route path = '/Timer' component={Seconds} />
+       </div>
     </Router>,
     document.getElementById('root')
 );
