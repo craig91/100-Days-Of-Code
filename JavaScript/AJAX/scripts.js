@@ -11,7 +11,7 @@ $(document).ready(function () {
             type: 'GET'
         }).done(function (data) {
             console.log(data);
-            var output = "<table><thead> <tr> <th>first</th> <th>last</th> <th>address</th> </thead><tbody>";
+            var output = "<table><thead> <tr> <th>First</th> <th>Last</th> <th>Address</th> </thead><tbody>";
             
             for( var i in data) {
                 
