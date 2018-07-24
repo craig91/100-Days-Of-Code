@@ -20,7 +20,8 @@ abstract class Animal { // abstract class to only be inherited.
 
 /* -------------------------- */
 class Dog extends Animal {
-    public void move() { // overridden the abstract move() method
+    public void move() {
+        // overridden the abstract move() method
         System.out.println("The dog walks around.");
     }
 
