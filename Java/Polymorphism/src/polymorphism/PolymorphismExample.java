@@ -8,6 +8,7 @@ public class PolymorphismExample {
         myDog.eat();
 
         System.out.println(myDog.hasFur);
+
     }
 }
 
